@@ -1,7 +1,7 @@
 # monirvai
 ©HACK On Your Risk ! I am Not Responsible For It⚠️⚠️
 
-Alert ! UPDATE (27-05-20)
+Alert ! UPDATE (28-06-20)
 
 apt update && apt upgrade -y
 
